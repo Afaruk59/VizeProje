@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/afkur/eclipse-workspace/activation-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/afkur/eclipse-workspace/javax.mail.jar"/>
+	<classpathentry kind="lib" path="javax.mail.jar"/>
+	<classpathentry kind="lib" path="activation-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
